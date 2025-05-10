@@ -1,0 +1,9 @@
+Results for DP Solver
+==============================
+test1.cnf: 1.8 seconds
+test2.cnf: 5.0 seconds
+test3.cnf: 22.5 seconds
+test4.cnf: 30.0 seconds
+test5.cnf: 100.0 seconds
+test6.cnf: timeout seconds
+test7.cnf: timeout seconds

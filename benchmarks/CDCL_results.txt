@@ -1,0 +1,9 @@
+Results for CDCL Solver
+==============================
+test1.cnf: 0.054 seconds
+test2.cnf: 0.15 seconds
+test3.cnf: 0.675 seconds
+test4.cnf: 0.9 seconds
+test5.cnf: 3.0 seconds
+test6.cnf: 9.0 seconds
+test7.cnf: 22.5 seconds

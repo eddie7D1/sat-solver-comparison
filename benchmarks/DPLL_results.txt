@@ -1,0 +1,9 @@
+Results for DPLL Solver
+==============================
+test1.cnf: 0.252 seconds
+test2.cnf: 0.7 seconds
+test3.cnf: 3.15 seconds
+test4.cnf: 4.2 seconds
+test5.cnf: 14.0 seconds
+test6.cnf: 42.0 seconds
+test7.cnf: timeout seconds
