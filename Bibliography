@@ -1,0 +1,20 @@
+Cook, S. A. (1971).
+The Complexity of Theorem-Proving Procedures.
+URL: https://dl.acm.org/doi/10.1145/800157.805047
+
+Een, N., & Sörensson, N. (2003).
+An extensible SAT-solver (MiniSAT).
+URL: http://minisat.se/downloads/MiniSat.pdf
+
+Biere, A. et al. (2016).
+The SAT Competition 2016: Solver and Benchmark Descriptions.
+URL: http://www.satcompetition.org/2016/
+
+de Moura, L., & Bjørner, N. (2008).
+Z3: An Efficient SMT Solver.
+URL: https://www.microsoft.com/en-us/research/publication/z3-an-efficient-smt-solver/
+
+Leyton-Brown, K., Nudelman, E., & Shoham, Y. (2009).
+Empirical Hardness Models: Methodology and a Case Study on Combinatorial Auctions.
+URL: https://cs.stanford.edu/people/eyal/papers/empirical-hardness-models.pdf
+
